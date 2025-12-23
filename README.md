@@ -30,3 +30,8 @@ product-wise sales movement across stores.
 
 ## Output
 Power BI dashboard showing comparative sales and variance metrics.
+
+## Dashboard Preview
+
+![Sales Dashboard](reports/sales-dashboard.png)
+
